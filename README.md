@@ -18,7 +18,7 @@ To install the project, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Asadbek02/laravel-vite-vue.git
+    git clone [https://github.com/Asadbek02/laravel-vite-vue.git](https://github.com/Asadbek02/myApp.git)
     ```
 
 2. Navigate to the project directory:
