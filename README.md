@@ -24,7 +24,7 @@ To install the project, follow these steps:
 2. Navigate to the project directory:
 
     ```bash
-    cd laravel-vite-vue
+    cd myApp
     ```
 
 3. Install Laravel dependencies:
