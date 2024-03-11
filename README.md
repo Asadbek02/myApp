@@ -30,7 +30,7 @@ To install the project, follow these steps:
 3. Install Laravel dependencies:
 
     ```bash
-    composer install
+    composer update
     ```
 
 4. Configure Laravel storage and settings:
